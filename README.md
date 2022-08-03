@@ -48,7 +48,7 @@ sudo nano ~/.bashrc
 ```
 at the end of the file add this line:
 ```
-source /home/wesam/catkin_ws/devel/setup.bash
+source /home/"username"/catkin_ws/devel/setup.bash
 ```
 Hit `ctrl + o` to save the changes and write this command:
 ```
