@@ -40,7 +40,7 @@ sudo apt-get install ros-noetic-joint-state-publisher ros-noetic-joint-state-pub
 sudo apt-get install ros-noetic-gazebo-ros-control joint-state-publisher
 ```
 ```
-sudo apt-get install ros-kinetic-ros-controllers ros-noetic-ros-control
+sudo apt-get install ros-noetic-ros-controllers ros-noetic-ros-control
 ```
 Now we need to edit the file `bachrc` and add the source to the end of this file:
 ```
